@@ -100,5 +100,9 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# my_files
+BPD_Part_1_Victim_Based_Crime_Data.csv
+Neighborhoods/
+
 # mypy
 .mypy_cache/
