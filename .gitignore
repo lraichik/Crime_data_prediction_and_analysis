@@ -103,6 +103,6 @@ venv.bak/
 # my_files
 BPD_Part_1_Victim_Based_Crime_Data.csv
 Neighborhoods/
-
+Baltimore_crime_cleaned.csv
 # mypy
 .mypy_cache/
