@@ -30,7 +30,7 @@ I made a dashboard for this information with Tableau, which can be seen at this 
 It allows you to filter based on crime, date, time, neighborhood and whether a crime occured inside or outside.  
 There is a map there which will then shade neighborhoods based on the amount of crime that occured there.  
 You will also see a line plot underneath that about the information you are viewing.  
-Both are clickable to ba able to see only one neighborhood, or only one date for the map.  
+Both are clickable to be able to see only one neighborhood, or only one date for the map.  
   
 Here is what it looks like:  
 <img src='Dashboard.png'>
