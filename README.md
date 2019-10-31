@@ -24,6 +24,17 @@ I will be looking at crime by neighborhood in the city of Baltimore, MD, of whic
 
 With the data I had or was able to look up and find, I was unable to predict the area or time a crime would occur. I do believe that further work into this with more data about crime, may be able to get a good enough prediction to help deploy law enforcement to be able to reduce crimes that occur outside. Unfortunately, it was not something I was currently able to do with the data I had.  
 
+## Dashboard
+
+I made a dashboard for this information with Tableau, which can be seen at this link [https://public.tableau.com/profile/levi.raichik#!/vizhome/BaltimoreMDCrimeData/Dashboard1](https://public.tableau.com/profile/levi.raichik#!/vizhome/BaltimoreMDCrimeData/Dashboard1).  
+It allows you to filter based on crime, date, time, neighborhood and whether a crime occured inside or outside.  
+There is a map there which will then shade neighborhoods based on the amount of crime that occured there.  
+You will also see a line plot underneath that about the information you are viewing.  
+Both are clickable to ba able to see only one neighborhood, or only one date for the map.  
+  
+Here is what it looks like:  
+<img src='Dashboard.png'>
+
 ## Recommendations
 
 I would suggest getting better information on crime, possibly directly from the police, if they are willing to cooperate with such a study.  
