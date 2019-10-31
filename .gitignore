@@ -104,5 +104,7 @@ venv.bak/
 BPD_Part_1_Victim_Based_Crime_Data.csv
 Neighborhoods/
 Baltimore_crime_cleaned.csv
+Baltimore_crime_for_dashboard.csv
+
 # mypy
 .mypy_cache/
